@@ -12,6 +12,8 @@ The goal of this repository is not only storing the references personally but al
 - [Understanding Knowledge Distillation in Neural Sequence Generation](https://www.microsoft.com/en-us/research/video/understanding-knowledge-distillation-in-neural-sequence-generation/)
 - [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 - [Natural Language Recommendations: A novel research paper search engine developed entirely with embedding and transformer models.](https://github.com/Santosh-Gupta/NaturalLanguageRecommendations)
+- [Graph Neural Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/?fbclid=IwAR285UMlV8mq1PWsIyYp233m-KHTueKzJorK2uyjQeh2yIli9zw9MxLhbjs)
+  - GNN in NLP
 
 # Contributors
 I am waiting for people who wants to contribute to this document.
