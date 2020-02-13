@@ -12,3 +12,8 @@ The goal of this repository is not only storing the references personally but al
 - [Understanding Knowledge Distillation in Neural Sequence Generation](https://www.microsoft.com/en-us/research/video/understanding-knowledge-distillation-in-neural-sequence-generation/)
 - [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 - [Natural Language Recommendations: A novel research paper search engine developed entirely with embedding and transformer models.](https://github.com/Santosh-Gupta/NaturalLanguageRecommendations)
+
+# Contributors
+I am waiting for people who wants to contribute to this document.
+
+- [@JudePark96](https://github.com/JudePark96/)
