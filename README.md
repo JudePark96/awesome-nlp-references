@@ -15,6 +15,7 @@ The goal of this repository is not only storing the references personally but al
 - [Graph Neural Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/?fbclid=IwAR285UMlV8mq1PWsIyYp233m-KHTueKzJorK2uyjQeh2yIli9zw9MxLhbjs)
   - GNN in NLP
 - [A Deep Dive into the Wonderful World of Preprocessing in NLP](https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/)
+- [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 
 # Contributors
 I am waiting for people who wants to contribute to this document.
