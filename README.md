@@ -16,6 +16,7 @@ The goal of this repository is not only storing the references personally but al
   - GNN in NLP
 - [A Deep Dive into the Wonderful World of Preprocessing in NLP](https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/)
 - [Distilling Transformers into Simple Neural Networks with Unlabeled Transfer Data](https://arxiv.org/abs/1910.01769)
+- [Learning and Reasoning on Graph for Recommendation](https://next-nus.github.io/)
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 
 # Contributors
