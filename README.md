@@ -12,6 +12,7 @@ The goal of this repository is not only storing the references personally but al
 
 ## Conversational Agents
 - [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977?fbclid=IwAR1-8Qi3MNs8I8Q3yLIajkTHEJJjMWdAWRLIRC7A464mxSMJoEJDHxpGs9s)
+  -  [Explaination in Korean by PingPong](https://blog.pingpong.us/meena-presentation/?fbclid=IwAR3epnb8NOQQcUQfXaJZLfGF-fhSsXV_FuVCD0yU78KOlb93Fi7KdMM51Kg)
 
 ## Pre-Processing
 - [A Deep Dive into the Wonderful World of Preprocessing in NLP](https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/)
