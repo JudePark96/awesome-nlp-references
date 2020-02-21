@@ -10,6 +10,9 @@ The goal of this repository is not only storing the references personally but al
 - [A new model and dataset for long-range memory](https://deepmind.com/blog/article/A_new_model_and_dataset_for_long-range_memory?fbclid=IwAR2XGjVqZgx90_S1y6e7CWR4BmAbsSspdn6Rks7BuN2Xuy3qnOpdf211bnc)
 - [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 
+## Conversational Agents
+- [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977?fbclid=IwAR1-8Qi3MNs8I8Q3yLIajkTHEJJjMWdAWRLIRC7A464mxSMJoEJDHxpGs9s)
+
 ## Pre-Processing
 - [A Deep Dive into the Wonderful World of Preprocessing in NLP](https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/)
 
