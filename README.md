@@ -35,6 +35,7 @@ The goal of this repository is not only storing the references personally but al
 # Tutorial
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 - [Learn NLP With Me – Information Extraction – Relations – Introduction](https://ryanong.co.uk/2020/02/21/day-52-learn-nlp-with-me-information-extraction-relations-introduction/)
+- [Stanford CS224N](http://web.stanford.edu/class/cs224n/)
 
 # Contributors
 I am waiting for people who wants to contribute to this document. If you know good papers, tutorial, whatsoever, Please pull request! :) 
