@@ -12,6 +12,8 @@ The goal of this repository is not only storing the references personally but al
 - [reformer-pytorch](https://github.com/lucidrains/reformer-pytorch)
   - Implementation in PyTorch
 - [Fixed Encoder Self-Attention Patterns in Transformer-Based Machine Translation](https://arxiv.org/abs/2002.10260?fbclid=IwAR3pr2SUEBe3L4eRZE8dR1X9lPpNcRc2aZUnEQZ5Y8B4sARgpqBeO76shc0)
+- [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
+
 
 ## Conversational Agents
 - [Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977?fbclid=IwAR1-8Qi3MNs8I8Q3yLIajkTHEJJjMWdAWRLIRC7A464mxSMJoEJDHxpGs9s)
