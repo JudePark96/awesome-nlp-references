@@ -43,6 +43,7 @@ The goal of this repository is not only storing the references personally but al
 - [Learn NLP With Me – Information Extraction – Relations – Introduction](https://ryanong.co.uk/2020/02/21/day-52-learn-nlp-with-me-information-extraction-relations-introduction/)
 - [Stanford CS224N](http://web.stanford.edu/class/cs224n/)
 - [fast.ai course-nlp](https://github.com/fastai/course-nlp)
+- [Daniel Jurafsky and James H Martin. Speech and Language Processing (3rd Edition). Draft, 2019.](https://web.stanford.edu/~jurafsky/slp3/)
 
 # Contributors
 I am waiting for people who wants to contribute to this document. If you know good papers, tutorial, whatsoever, Please pull request! :) 
