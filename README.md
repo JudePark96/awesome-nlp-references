@@ -38,6 +38,9 @@ The goal of this repository is not only storing the references personally but al
 ## Meta Learning
 - [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
 
+## Metric Learning
+- [Metric Learning for Dynamic Text Classification](https://www.aclweb.org/anthology/D19-6116/)
+
 # Tutorial
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 - [Learn NLP With Me – Information Extraction – Relations – Introduction](https://ryanong.co.uk/2020/02/21/day-52-learn-nlp-with-me-information-extraction-relations-introduction/)
