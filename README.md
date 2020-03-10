@@ -13,6 +13,7 @@ The goal of this repository is not only storing the references personally but al
   - Implementation in PyTorch
 - [Fixed Encoder Self-Attention Patterns in Transformer-Based Machine Translation](https://arxiv.org/abs/2002.10260?fbclid=IwAR3pr2SUEBe3L4eRZE8dR1X9lPpNcRc2aZUnEQZ5Y8B4sARgpqBeO76shc0)
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
+- [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://github.com/google-research/electra)
 
 
 ## Conversational Agents
