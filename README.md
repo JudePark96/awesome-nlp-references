@@ -44,6 +44,9 @@ The goal of this repository is not only storing the references personally but al
 ## Metric Learning
 - [Metric Learning for Dynamic Text Classification](https://www.aclweb.org/anthology/D19-6116/)
 
+## Data Argumentation
+- [Bi-Decoder Augmented Network for Neural Machine Translation](https://arxiv.org/pdf/2001.04586.pdf)
+
 # Tutorial
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 - [Learn NLP With Me – Information Extraction – Relations – Introduction](https://ryanong.co.uk/2020/02/21/day-52-learn-nlp-with-me-information-extraction-relations-introduction/)
