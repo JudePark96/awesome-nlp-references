@@ -37,7 +37,7 @@ The goal of this repository is not only storing the references personally but al
 - [Attentive Student Meets Multi-Task Teacher: Improved Knowledge Distillation for Pretrained Models](https://arxiv.org/pdf/1911.03588.pdf)
 - [Robust Language Representation Learning via Multi-task Knowledge Distillation](https://www.microsoft.com/en-us/research/blog/robust-language-representation-learning-via-multi-task-knowledge-distillation/)
 - [Understanding Knowledge Distillation in Neural Sequence Generation](https://www.microsoft.com/en-us/research/video/understanding-knowledge-distillation-in-neural-sequence-generation/)
-- [https://arxiv.org/abs/1903.12136](Distilling Task-Specific Knowledge from BERT into Simple Neural Networks)
+- [Distilling Task-Specific Knowledge from BERT into Simple Neural Networks](https://arxiv.org/abs/1903.12136)
 
 ## Meta Learning
 - [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
