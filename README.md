@@ -44,6 +44,7 @@ The goal of this repository is not only storing the references personally but al
 
 ## Metric Learning
 - [Metric Learning for Dynamic Text Classification](https://www.aclweb.org/anthology/D19-6116/)
+- [RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems](https://arxiv.org/abs/1701.03079)
 
 ## Data Argumentation
 - [Bi-Decoder Augmented Network for Neural Machine Translation](https://arxiv.org/pdf/2001.04586.pdf)
