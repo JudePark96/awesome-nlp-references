@@ -15,6 +15,7 @@ The goal of this repository is not only storing the references personally but al
 - [A Primer in BERTology: What we know about how BERT works](https://arxiv.org/pdf/2002.12327.pdf)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://github.com/google-research/electra)
 - [Universal Transformer](https://arxiv.org/pdf/1807.03819.pdf)
+- [Contextualized Non-local Neural Networks for Sequence Learning](https://arxiv.org/abs/1811.08600)
 
 
 ## Conversational Agents
@@ -22,6 +23,7 @@ The goal of this repository is not only storing the references personally but al
   -  [Explaination in Korean by PingPong Team](https://blog.pingpong.us/meena-presentation/?fbclid=IwAR3epnb8NOQQcUQfXaJZLfGF-fhSsXV_FuVCD0yU78KOlb93Fi7KdMM51Kg)
 - [Self-Supervised Dialogue Learning](https://arxiv.org/pdf/1907.00448.pdf)
 - [Sequential Attention-based Network for Noetic End-to-End Response Selection](https://arxiv.org/abs/1901.02609)
+- [https://arxiv.org/abs/1904.11564](https://arxiv.org/abs/1904.11564)
 
 ## Pre-Processing
 - [A Deep Dive into the Wonderful World of Preprocessing in NLP](https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/)
@@ -47,9 +49,18 @@ The goal of this repository is not only storing the references personally but al
 - [Metric Learning for Dynamic Text Classification](https://www.aclweb.org/anthology/D19-6116/)
 - [RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems](https://arxiv.org/abs/1701.03079)
 - [Better Automatic Evaluation of Open-Domain Dialogue Systems with Contextualized Embeddings](https://arxiv.org/abs/1904.10635)
+- [Matching Natural Language Sentences with Hierarchical Sentence Factorization](https://arxiv.org/abs/1803.00179)
+- [Instance Cross Entropy for Deep Metric Learning](https://arxiv.org/abs/1911.09976)
+- [Matching Embeddings for Domain Adaptation](https://arxiv.org/abs/1909.11651)
+- [Deep Metric Learning using Similarities from Nonlinear Rank Approximations](https://arxiv.org/abs/1909.09427)
+- [Keyword-Attentive Deep Semantic Matching](https://arxiv.org/abs/2003.11516)
 
 ## Data Argumentation
 - [Bi-Decoder Augmented Network for Neural Machine Translation](https://arxiv.org/pdf/2001.04586.pdf)
+
+## Sequence Labeling
+
+- [Low-Resource Sequence Labeling via Unsupervised Multilingual Contextualized Representations](https://arxiv.org/abs/1910.10893)
 
 # Tutorial
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
