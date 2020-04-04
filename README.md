@@ -25,6 +25,7 @@ The goal of this repository is not only storing the references personally but al
 - [Self-Supervised Dialogue Learning](https://arxiv.org/pdf/1907.00448.pdf)
 - [Sequential Attention-based Network for Noetic End-to-End Response Selection](https://arxiv.org/abs/1901.02609)
 - [Neural Text Generation from Rich Semantic Representations](https://arxiv.org/abs/1904.11564)
+- [Pretraining Methods for Dialog Context Representation Learning](https://arxiv.org/pdf/1906.00414.pdf)
 
 ## Pre-Processing
 - [A Deep Dive into the Wonderful World of Preprocessing in NLP](https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/)
