@@ -16,6 +16,7 @@ The goal of this repository is not only storing the references personally but al
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://github.com/google-research/electra)
 - [Universal Transformer](https://arxiv.org/pdf/1807.03819.pdf)
 - [Contextualized Non-local Neural Networks for Sequence Learning](https://arxiv.org/abs/1811.08600)
+- [An Efficient Framework for Learning Sentence Representations](https://arxiv.org/abs/1803.02893)
 
 
 ## Conversational Agents
@@ -23,7 +24,7 @@ The goal of this repository is not only storing the references personally but al
   -  [Explaination in Korean by PingPong Team](https://blog.pingpong.us/meena-presentation/?fbclid=IwAR3epnb8NOQQcUQfXaJZLfGF-fhSsXV_FuVCD0yU78KOlb93Fi7KdMM51Kg)
 - [Self-Supervised Dialogue Learning](https://arxiv.org/pdf/1907.00448.pdf)
 - [Sequential Attention-based Network for Noetic End-to-End Response Selection](https://arxiv.org/abs/1901.02609)
-- [https://arxiv.org/abs/1904.11564](https://arxiv.org/abs/1904.11564)
+- [Neural Text Generation from Rich Semantic Representations](https://arxiv.org/abs/1904.11564)
 
 ## Pre-Processing
 - [A Deep Dive into the Wonderful World of Preprocessing in NLP](https://mlexplained.com/2019/11/06/a-deep-dive-into-the-wonderful-world-of-preprocessing-in-nlp/)
