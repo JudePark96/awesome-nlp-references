@@ -56,6 +56,7 @@ The goal of this repository is not only storing the references personally but al
 - [Matching Embeddings for Domain Adaptation](https://arxiv.org/abs/1909.11651)
 - [Deep Metric Learning using Similarities from Nonlinear Rank Approximations](https://arxiv.org/abs/1909.09427)
 - [Keyword-Attentive Deep Semantic Matching](https://arxiv.org/abs/2003.11516)
+- [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
 
 ## Data Argumentation
 - [Bi-Decoder Augmented Network for Neural Machine Translation](https://arxiv.org/pdf/2001.04586.pdf)
