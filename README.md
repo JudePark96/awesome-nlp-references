@@ -33,6 +33,7 @@ The goal of this repository is not only storing the references personally but al
 
 ## Graph Neural Network
 - [Graph Neural Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/?fbclid=IwAR285UMlV8mq1PWsIyYp233m-KHTueKzJorK2uyjQeh2yIli9zw9MxLhbjs)
+- [Generating Logical Forms from Graph Representations of Text and Entities](https://arxiv.org/pdf/1905.08407.pdf)
 
 ## Recommendation System
 - [Learning and Reasoning on Graph for Recommendation](https://next-nus.github.io/)
@@ -63,7 +64,6 @@ The goal of this repository is not only storing the references personally but al
 - [Bi-Decoder Augmented Network for Neural Machine Translation](https://arxiv.org/pdf/2001.04586.pdf)
 
 ## Sequence Labeling
-
 - [Low-Resource Sequence Labeling via Unsupervised Multilingual Contextualized Representations](https://arxiv.org/abs/1910.10893)
 
 # Tutorial
