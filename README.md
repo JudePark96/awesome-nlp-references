@@ -73,6 +73,9 @@ The goal of this repository is not only storing the references personally but al
 - [fast.ai course-nlp](https://github.com/fastai/course-nlp)
 - [Daniel Jurafsky and James H Martin. Speech and Language Processing (3rd Edition). Draft, 2019.](https://web.stanford.edu/~jurafsky/slp3/)
 
+# Tool
+- [Open Knowledge Embedding](https://github.com/thunlp/OpenKE)
+
 # Contributors
 I am waiting for people who wants to contribute to this document. If you know good papers, tutorial, whatsoever, Please pull request! :) 
 
