@@ -17,6 +17,8 @@ The goal of this repository is not only storing the references personally but al
 - [Universal Transformer](https://arxiv.org/pdf/1807.03819.pdf)
 - [Contextualized Non-local Neural Networks for Sequence Learning](https://arxiv.org/abs/1811.08600)
 - [An Efficient Framework for Learning Sentence Representations](https://arxiv.org/abs/1803.02893)
+- [DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference](https://arxiv.org/pdf/2004.12993.pdf)
+  - [Implementation in PyTorch](https://github.com/castorini/DeeBERT)
 
 
 ## Conversational Agents
