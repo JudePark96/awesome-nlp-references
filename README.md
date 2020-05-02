@@ -68,17 +68,18 @@ The goal of this repository is not only storing the references personally but al
 ## Sequence Labeling
 - [Low-Resource Sequence Labeling via Unsupervised Multilingual Contextualized Representations](https://arxiv.org/abs/1910.10893)
 
-# Tutorial
+## Tutorial
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 - [Learn NLP With Me – Information Extraction – Relations – Introduction](https://ryanong.co.uk/2020/02/21/day-52-learn-nlp-with-me-information-extraction-relations-introduction/)
 - [Stanford CS224N](http://web.stanford.edu/class/cs224n/)
 - [fast.ai course-nlp](https://github.com/fastai/course-nlp)
 - [Daniel Jurafsky and James H Martin. Speech and Language Processing (3rd Edition). Draft, 2019.](https://web.stanford.edu/~jurafsky/slp3/)
+- [Hands on Machine Learning](https://github.com/ageron/handson-ml2?fbclid=IwAR1wilnC9h2P9yFNwvgrnpLE4i7xsYJ0o0APGVji5zDb2AGobajua434qHg)
 
-# Tool
+## Tool
 - [Open Knowledge Embedding](https://github.com/thunlp/OpenKE)
 
-# Contributors
+## Contributors
 I am waiting for people who wants to contribute to this document. If you know good papers, tutorial, whatsoever, Please pull request! :) 
 
 - [@JudePark96](https://github.com/JudePark96/)
