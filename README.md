@@ -68,6 +68,9 @@ The goal of this repository is not only storing the references personally but al
 ## Sequence Labeling
 - [Low-Resource Sequence Labeling via Unsupervised Multilingual Contextualized Representations](https://arxiv.org/abs/1910.10893)
 
+## Relation Extraction
+- [Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/pdf/1911.03814.pdf?fbclid=IwAR3z8-1qEsoJ6h8k3R6Q5SnSN80AlHrenUmEOYAsDfqFwqels0BZc9qmNME)
+
 ## Tutorial
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 - [Learn NLP With Me – Information Extraction – Relations – Introduction](https://ryanong.co.uk/2020/02/21/day-52-learn-nlp-with-me-information-extraction-relations-introduction/)
