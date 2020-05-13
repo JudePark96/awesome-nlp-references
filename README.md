@@ -36,6 +36,7 @@ The goal of this repository is not only storing the references personally but al
 ## Graph Neural Network
 - [Graph Neural Networks: Models and Applications](http://cse.msu.edu/~mayao4/tutorials/aaai2020/?fbclid=IwAR285UMlV8mq1PWsIyYp233m-KHTueKzJorK2uyjQeh2yIli9zw9MxLhbjs)
 - [Generating Logical Forms from Graph Representations of Text and Entities](https://arxiv.org/pdf/1905.08407.pdf)
+- [K-BERT: Enabling Language Representation With Knowledge Graph](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuW.5594.pdf?fbclid=IwAR1U02U0REq-up-9upNT-ujKgX6uEidMnynqOOLUXswK7AcOYJPd59xF6WQ)
 
 ## Recommendation System
 - [Learning and Reasoning on Graph for Recommendation](https://next-nus.github.io/)
@@ -61,6 +62,8 @@ The goal of this repository is not only storing the references personally but al
 - [Deep Metric Learning using Similarities from Nonlinear Rank Approximations](https://arxiv.org/abs/1909.09427)
 - [Keyword-Attentive Deep Semantic Matching](https://arxiv.org/abs/2003.11516)
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/abs/1904.09675)
+- [Sampling Matters! An Empirical Study of Negative Sampling Strategies
+for Learning of Matching Models in Retrieval-based Dialogue Systems](https://www.aclweb.org/anthology/D19-1128.pdf?fbclid=IwAR3cnvcmRmf2Cwa5lXWx5aZLySGTinZla49sBgJZOJuKM9ifRTOh3yQVNWY)
 
 ## Data Argumentation
 - [Bi-Decoder Augmented Network for Neural Machine Translation](https://arxiv.org/pdf/2001.04586.pdf)
