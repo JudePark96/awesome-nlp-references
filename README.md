@@ -52,6 +52,9 @@ The goal of this repository is not only storing the references personally but al
 ## Meta Learning
 - [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
 
+## Named Entity Recognition
+- [Named Entity Recognition as Dependency Parsing](https://arxiv.org/pdf/2005.07150.pdf)
+
 ## Metric Learning
 - [Metric Learning for Dynamic Text Classification](https://www.aclweb.org/anthology/D19-6116/)
 - [RUBER: An Unsupervised Method for Automatic Evaluation of Open-Domain Dialog Systems](https://arxiv.org/abs/1701.03079)
