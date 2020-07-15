@@ -54,6 +54,7 @@ The goal of this repository is not only storing the references personally but al
 
 ## Named Entity Recognition
 - [Named Entity Recognition as Dependency Parsing](https://arxiv.org/pdf/2005.07150.pdf)
+  - [Implementation GitHub](https://github.com/amir-zeldes/biaffine-ner)
 
 ## Metric Learning
 - [Metric Learning for Dynamic Text Classification](https://www.aclweb.org/anthology/D19-6116/)
