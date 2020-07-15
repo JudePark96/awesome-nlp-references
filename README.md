@@ -75,6 +75,9 @@ for Learning of Matching Models in Retrieval-based Dialogue Systems](https://www
 ## Sequence Labeling
 - [Low-Resource Sequence Labeling via Unsupervised Multilingual Contextualized Representations](https://arxiv.org/abs/1910.10893)
 
+## Keyphrase Extraction/Generation
+- [Title-Guided Encoding for Keyphrase Generation](https://arxiv.org/pdf/1808.08575.pdf)
+
 ## Relation Extraction
 - [Zero-shot Entity Linking with Dense Entity Retrieval](https://arxiv.org/pdf/1911.03814.pdf?fbclid=IwAR3z8-1qEsoJ6h8k3R6Q5SnSN80AlHrenUmEOYAsDfqFwqels0BZc9qmNME)
 
