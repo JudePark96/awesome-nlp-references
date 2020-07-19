@@ -19,6 +19,7 @@ The goal of this repository is not only storing the references personally but al
 - [An Efficient Framework for Learning Sentence Representations](https://arxiv.org/abs/1803.02893)
 - [DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference](https://arxiv.org/pdf/2004.12993.pdf)
   - [Implementation in PyTorch](https://github.com/castorini/DeeBERT)
+- [A Generative Model for Joint Natural Language Understanding and Generation](https://arxiv.org/pdf/2006.07499.pdf)
 
 
 ## Conversational Agents
