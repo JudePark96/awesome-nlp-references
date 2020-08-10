@@ -85,6 +85,9 @@ for Learning of Matching Models in Retrieval-based Dialogue Systems](https://www
 ## Machine Translation
 - [Domain specialization: a post-training domain adaptation for Neural Machine Translation](https://arxiv.org/pdf/1612.06141.pdf)
 
+## Evaluation Metric
+- [Guiding Extractive Summarization with Question-Answering Rewards](https://www.aclweb.org/anthology/N19-1264.pdf)
+
 ## Tutorial
 - [pytorch-seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)
 - [Learn NLP With Me – Information Extraction – Relations – Introduction](https://ryanong.co.uk/2020/02/21/day-52-learn-nlp-with-me-information-extraction-relations-introduction/)
