@@ -5,6 +5,9 @@ The goal of this repository is not only storing the references personally but al
 
 # Reference
 
+## Retrieval
+- [Dense Passage Retrieval for Open-Domain Question Answering](https://arxiv.org/abs/2004.04906)
+
 ## Language Model
 - [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks/)
 - [A new model and dataset for long-range memory](https://deepmind.com/blog/article/A_new_model_and_dataset_for_long-range_memory?fbclid=IwAR2XGjVqZgx90_S1y6e7CWR4BmAbsSspdn6Rks7BuN2Xuy3qnOpdf211bnc)
